@@ -2,7 +2,7 @@ Django==1.11.3
 pip==9.0.1
 psycopg2==2.7.1
 pytz==2017.2
-setuptools==36.0.1
+setuptools==65.5.1
 wheel==0.29.0
 gunicorn==19.7.1
 algoliasearch==1.12.0
